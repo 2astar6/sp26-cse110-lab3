@@ -4,15 +4,15 @@
 
 ### Classification
 
-* Type: <Meeting Type>
-* Special-Schedule: <Y/N>
+* Type: \<Meeting Type\>
+* Special-Schedule: \<Y/N\>
 
 ### Timing
-* **Date**: <Gregorian;DD-MM-YYYY>
-* **Start-Time**: <PST>
+* **Date**: \<Gregorian; DD-MM-YYYY\>
+* **Start-Time**: \<PST\>
 * **End-Time**: ...
 * **Duration**: ...
-* **Over-Time?**: <Y/N>
+* **Over-Time?**: \<Y/N\>
 
 ### Location
 * **Remote Link or Physical Location**: ...
@@ -57,7 +57,7 @@
 
 ## Questions per Team
 
-* <ID>
+* \<ID\>
   
     1. **What did we work on yesterday?**:
     2. **What are we working on today?**:
@@ -65,7 +65,7 @@
 
 ## Questions per Individual
 
-* <Name>
+* \<Name\>
   
     1. **What did I work on yesterday?**:
     2. **What am I working on today?**:
