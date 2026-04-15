@@ -60,7 +60,7 @@
 * <ID>
   1. **What did we work on yesterday?**:
   2. **What are we working on today?**:
-  3. What issues are blocking us?:
+  3. **What issues are blocking us?**:
 
 ## Questions per Individual
 
