@@ -39,7 +39,7 @@
 
 #### Developers By Team
 
-* /<Team/>
+* \<Team\>
 
     1. \<\>
     2. \<\>
@@ -55,7 +55,7 @@
 
 #### Developers by Team
 
-* /<Team/>
+* \<Team\>
 
     1. \<\>
     2. \<\>
