@@ -58,16 +58,18 @@
 ## Questions per Team
 
 * <ID>
-  1. **What did we work on yesterday?**:
-  2. **What are we working on today?**:
-  3. **What issues are blocking us?**:
+  
+    1. **What did we work on yesterday?**:
+    2. **What are we working on today?**:
+    3. **What issues are blocking us?**:
 
 ## Questions per Individual
 
 * <Name>
-  1. **What did I work on yesterday?**:
-  2. **What am I working on today?**:
-  3. **What issues are blocking me?**:
+  
+    1. **What did I work on yesterday?**:
+    2. **What am I working on today?**:
+    3. **What issues are blocking me?**:
 
 ## Decided Action Items
 
