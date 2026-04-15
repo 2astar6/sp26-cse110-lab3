@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Meeting Minutes for Group 02</title>
+    <title>Meeting Minutes: Group 02</title>
     <meta charset="UTF-8">
     <meta name="description" content="A Site Made Soley for Meeting Minutes Tracking">
     <meta name="keywords" content="HTML">
@@ -11,67 +11,139 @@
   </head>
   <body>
     <header>
-      <img>
+      <img src="">
       <h1>
         <b>Meeting Minutes</b>
       </h1>
       <nav>
-        <span></span>
+        <span>Details</span>
+        <span>Attendance</span>
+        <span>Agenda</span>
+        <span>Old Unresolved Business</span>
+        <span>New Business</span>
+        <span>Items Not Yet Discussed / Postponed</span>
+        <span>Decisions Made</span>
+        <span>Media</span>
+        <span>Post-Meeting Feedback</span>
       </nav>
     </header>
-      <main>
-        <section>
-          <h2>Meeting #1</h2>
-          <h2>February 29, 2029</h2>
-        </section>
-        <section>
-          <div>
-            <p>
-              <strong></strong>
-              <i></i>
-              <m></m>
-              <a></a>
-              <br>
-            </p>
-          </div>
-          <div>
-            <hr></hr>
-          </div>
-          <div>
-            <li></li>
-          </div>
-          <div>
-            <ol></ol>
-          </div>
-          <div>
-            <ul></ul>
-          </div>
-          <div>
-            <audio></audio>
-            <summary></summary>
-            <video></video>
-            <details></details>
-          </div>
-        </section>
-        <section>
-          <form>
-            <fieldset></fieldset>
-            <input></input>
-            <input></input>
-            <input></input>
-            <textarea></textarea>
-            <datalist></datalist>
-            <select></select>
-            <option></option>
-            <button></button>
-          </form>
-        </section>
-      </main>
-    <section></section>
+    <main>
+      <section>
+        <h2>Details</h2>
+        <div>
+          <h3>Name: Meeting #1</h3>
+          <h3>Location: ZOOM</h3>
+          <h3>Date: February 29, 2029</h3>
+          <h3>Start: 11:00am</h3>
+          <h3>End: 12:00pm</h3> 
+        </div>
+      </section>
+      <hr>
+      <section>
+        <h2>Attendance</h2>
+        <h3>Present:</h3>
+        <ul>
+          <li>President</li>
+          <li>Vice President</li>
+        </ul>
+        <h3>Absent:</h3>
+        <ul>
+          <li>N/A</li>
+        </ul>
+      </section>
+      <hr>
+      <section>
+        <h2>Agenda</h2>
+        <ol>
+          <li>
+            <details>
+              <summary>Discuss Management Assignments</summary>
+              <p>TBD</p>
+            </details>
+          </li>
+          <li>Branding and Video</li>
+          <li>Rules/Contract</li>
+          <li>Roles</li>
+        </ol>
+      </section>
+      <hr>
+      <section>
+        <h2>Old Unresolved Business</h2>
+        <div>
+          <i>Discussion:</i> Decided our name will be SWEaters United. <br>
+          <i>Status:</i> Resolved
+        </div>
+      </section>
+      <hr>
+      <section>
+        <h2>New Business</h2>
+        <div>
+          <p>
+            We <strong>must</strong> discuss the video <em>contents</em> and <em>theme</em>! Check the <a>video</a> and <a>audio</a> from the initial draft of the video soon! Our video production team needs feedback!
+          </p>
+        </div>
+      </section>
+      <hr>
+      <section>
+        <h2>Media</h2>
+        <div>
+          <audio controls>
+            <source src="" type="audio/mp3">
+          </audio>
+          <video width="25%" height="25%" controls>
+             <source src="" type="video/mp4">
+          </video>
+        </div>
+      </section>
+      <hr>
+      <section>
+        <h2>Post-Meeting Feedback</h2>
+        <form>
+          <fieldset>
+            <legend>Identification:</legend>
+            <label for="fname">First Name:</label>
+            <input type="text" id="lname" name="lname"><br><br>
+            <label for="lname">Last Name:</label>
+            <input type="text" id="wsat" name="wsat"><br><br>
+            <label for="wsat">Were You Satisfied With the Meeting?:</label>
+            <input type="text" id="swhy" name="swhy"><br><br>
+            <label for="swhy">Specify Why or Why Not:</label>
+            <textarea id="swhy" name="swhy"></textarea><br><br>
+            <label for="lrate">Please Select a Current Rating for Your Leaders:</label>
+            <select id=lrate>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+            </select>
+            <label for="orate">Please Choose an Overall Rating for the Meeting:</label>
+            <input list="orating" name="orate" id="orate">
+            <datalist id="orating">
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+            </datalist>
+            <button>
+              <input type="submit">
+              Submit
+            </button>
+          </fieldset>
+        </form>
+      </section>
+    </main>
     <footer>
-      <h1></h1>
-      <h2></h2>
-      <h3></h3>
+      <nav>
+        <span>Details</span>
+        <span>Attendance</span>
+        <span>Agenda</span>
+        <span>Old Unresolved Business</span>
+        <span>New Business</span>
+        <span>Items Not Yet Discussed / Postponed</span>
+        <span>Decisions Made</span>
+      </nav>
     </footer>
   </body>
 </html>
