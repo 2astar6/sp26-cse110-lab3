@@ -4,20 +4,20 @@
 
 ### Classification
 
-Type: <Meeting Type>
-Special-Schedule: <Y/N>
+* Type: <Meeting Type>
+* Special-Schedule: <Y/N>
 
 ### Timing
-Date: <Gregorian;DD-MM-YYYY>
-Start-Time: <PST>
-End-Time: ...
-Duration: ...
-Over-Time?: <Y/N>
+* **Date**: <Gregorian;DD-MM-YYYY>
+* **Start-Time**: <PST>
+* **End-Time**: ...
+* **Duration**: ...
+* **Over-Time?**: <Y/N>
 
 ### Location
-Remote Link or Physical Location: ...
-Side-Link for Extra Participation: ...
-Scrum Board Link: ...
+* **Remote Link or Physical Location**: ...
+* **Side-Link for Extra Participation**: ...
+* **Scrum Board Link**: ...
 
 ## Participants
 
@@ -58,16 +58,16 @@ Scrum Board Link: ...
 ## Questions per Team
 
 * <ID>
-  1. What did we work on yesterday?
-  2. What are we working on today?
-  3. What issues are blocking us?
+  1. **What did we work on yesterday?**:
+  2. **What are we working on today?**:
+  3. What issues are blocking us?:
 
 ## Questions per Individual
 
 * <Name>
-  1. What did I work on yesterday?
-  2. What am I working on today?
-  3. What issues are blocking me?
+  1. **What did I work on yesterday?**:
+  2. **What am I working on today?**:
+  3. **What issues are blocking me?**:
 
 ## Decided Action Items
 
