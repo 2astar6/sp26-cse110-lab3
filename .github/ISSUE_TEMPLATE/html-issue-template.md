@@ -9,7 +9,7 @@ assignees: 2astar6
 
 ## Details
 
-* **List of Origin File Names & Lines**:
+* **List of Origin File Names & Lines (e.g. `index.html @ 1-5`)**:
 
 ## Explanations
 
