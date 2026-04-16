@@ -9,12 +9,10 @@ assignees: 2astar6
 
 ## Details
 
-* **Origin File Name/s**:
-* **Origin File Line/s**: 
+* **List of Origin File Names & Lines**:
 
 ## Explanations
 
-* **Exact Affected File Name/s (if possible)**: 
 * **General Effect Description**: 
 
 ## Notes
