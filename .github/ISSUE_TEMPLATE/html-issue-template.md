@@ -9,10 +9,12 @@ assignees: 2astar6
 
 ## Details
 
-* **List of Origin File Names & Lines (e.g. `index.html @ 1-5`)**:
+* **Origin File Name/s**:
+* **Origin File Line/s**: 
 
 ## Explanations
 
+* **Exact Affected File Name/s (if possible)**: 
 * **General Effect Description**: 
 
 ## Notes
