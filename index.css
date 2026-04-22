@@ -1,3 +1,9 @@
+/* vars */
+:root {
+  --main-invisibility-background-color: #fff;
+  --fallback-invisibility-background-color: white;
+}
+
 /* universal */
 * {
   font-family: "Rubik", sans-serif;
@@ -68,6 +74,7 @@ footer {
     height: auto; 
     padding: 10px 10px 10px 10px; 
     /* border: 1px solid red; */
+    background-color: var(--main-invisibility-background-color, --fallback-invisibility-background-color);
 }
 
 /* logo */
@@ -196,8 +203,8 @@ section {
     position: relative; 
     display: block;
     border-radius: 10px;
-    background-color: #fff;
-    background-color: rgb(245, 235, 0);
+    background-color: #f5eb00; /* the base */
+    background-color: rgb(245, 235, 0); /* the fallback */
     height: auto; 
     width: 100%;
     margin-top: 0; 
