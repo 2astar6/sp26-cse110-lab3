@@ -120,18 +120,18 @@
       <section id="media-section">
         <h2>Media</h2>
         <div class="contents">
-          <div>
+          <div id="video">
+            <video controls>
+               <source src="media/teamintro.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div id="audio">
             <audio controls>
               <source src="media/teamintro.mp3" type="audio/mp3">
             </audio>
           </div>
-          <div>
-            <video width="180" height="100" controls>
-               <source src="media/teamintro.mp4" type="video/mp4">
-            </video>
-          </div>
-          <div>
-            <img src="media/aws_diagram.png" width="180" height="100" alt="AWS diagram we discussed">
+          <div id="img">
+            <img src="media/aws_diagram.png" alt="AWS diagram we discussed">
           </div>
         </div>
       </section>
@@ -193,7 +193,7 @@
             <label for="datemeet">Please Enter the Date When You Are Next Available for a Meeting:</label>
             <input type="date" id="datemeet" name="datemeet"><br><br>
           </fieldset>
-          <button>Submit</button>
+          <button id="submit">Submit</button>
         </form>
       </section>
     </main>
